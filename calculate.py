@@ -16,4 +16,4 @@ elif act == "mod":  c = a % b
 elif act == "pow":  c = a ** b
 elif act == "div":  c = a // b
 
-print (c)
+print(c)
